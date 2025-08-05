@@ -7,7 +7,9 @@ Enough Waffling. Enjoy.
   
 - Designed to replicate RDO features.
 - Players require only to equip a varmint rifle with sedative rounds.
-- item is output to easy to find functions.  
+- animals sedated can be revived by ingame provisions, or left to revive on a timed revive cycle.
+- Sampled item is provided, compendium is updated to reflect a sample to the animal.
+- output function includes sampled item so you can just polace it in whichever inventory you like.  
   
 Item Hashnames used in this script.  
 > weapon_rifle_varmint
